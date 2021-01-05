@@ -35,9 +35,25 @@ I am a UCD BS computer science final year student, an ex-Ericsson Software Devel
 
 <br/>
 <div align="center">
-<table border="0" style="border-collapse:collapse;">
+<table>
 <tr><td>
-    
+
+![Java](https://img.shields.io/badge/-Java-black?logo=java)
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+![Maven](https://img.shields.io/badge/-Maven-black?logo=maven)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
+![JSON](https://img.shields.io/badge/-JSON-black?logo=json)
+![XML](https://img.shields.io/badge/-XML-black?logo=xml)
+![SQL](https://img.shields.io/badge/-SQL-black?logo=sql)
+![C](https://img.shields.io/badge/-C-black?logo=c)
+![Ruby](https://img.shields.io/badge/-Ruby-black?logo=ruby)
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
+![Windows](https://img.shields.io/badge/-Windows-black?logo=windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu)
+
 __Skills__: Software Development / Computer Networking
 
 - 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/dashboard)
