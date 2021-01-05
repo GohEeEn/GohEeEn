@@ -45,6 +45,7 @@ I am a UCD BS computer science final year student, an ex-Ericsson Software Devel
 ![Maven](https://img.shields.io/badge/-Maven-black?logo=maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 ![JSON](https://img.shields.io/badge/-JSON-black?logo=json)
+<br/>
 ![XML](https://img.shields.io/badge/-XML-black?logo=xml)
 ![SQL](https://img.shields.io/badge/-SQL-black?logo=sql)
 ![C](https://img.shields.io/badge/-C-black?logo=c)
