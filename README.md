@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ee-en-g-27b39014b/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://rajitbanerjee.com">
+  <a href="https://goheeen.netlify.app">
     <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
