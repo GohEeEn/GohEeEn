@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I am Ee En (Vincent)</h1><br/>
 
 <p align="center">
-  <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" /> 
+  <!-- <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" />  -->
   <br />
   <a href="https://www.linkedin.com/in/ee-en-g-27b39014b/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,12 +31,14 @@ Here are some ideas to get you started:
 
 #### A computer security enthusiatic from a wonderful trophical country
 
-I am a UCD BS computer science final year student, an ex-Ericsson Software Developer Intern, and incoming Workday Associate Security Engineer. Also, I am a human with humanity.
+I am a UCD BS computer science graduate, an ex-Ericsson Software Developer Intern, and incoming Workday Associate Security Engineer. Also, I am a homo sapiens (not a robot!)
 
 <br/>
 <div align="center">
-<table>
-<tr><td>
+
+<table style="table-layout: fixed;">
+<tr>
+  <td style="width: 50%;">
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
@@ -45,41 +47,39 @@ I am a UCD BS computer science final year student, an ex-Ericsson Software Devel
 ![Maven](https://img.shields.io/badge/-Maven-black?logo=maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 ![JSON](https://img.shields.io/badge/-JSON-black?logo=json)
-<br/>
 ![XML](https://img.shields.io/badge/-XML-black?logo=xml)
 ![SQL](https://img.shields.io/badge/-SQL-black?logo=sql)
 ![C](https://img.shields.io/badge/-C-black?logo=c)
-![Ruby](https://img.shields.io/badge/-Ruby-black?logo=ruby)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
 ![Windows](https://img.shields.io/badge/-Windows-black?logo=windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu)
 
-__Skills__: Software Development / Computer Networking
+__Skills__: SDE / Computer Networking / CTF
 
-- 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/dashboard)
+- 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/dashboard) and [CTFTime](https://ctftime.org)
 - 🌱 I’m currently learning [Cisco Networking Essentials course](https://www.netacad.com/courses/networking/networking-essentials)
-- 📫 How to reach me: [Email](mailto:vincentgoh1998@gmail.com) me maybe ? 
-- ⚡ Fun fact: I sleep early (morning)
+- 📫 How to reach me: [Email](mailto:vincentgoh1998@gmail.com) me maybe ?
+<!-- - ⚡ Fun fact: Somebody call me a night owl, but I sleep early ! (every day morning) -->
 </td>
 
-<td>  
+<td style="width: 50%;">  
  <!-- Reference : https://github.com/anuraghazra/github-readme-stats -->
  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohEeEn" alt="Top languages used on GitHub" align="right">
 </td></tr>
 
 <tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=GohEeEn&show_icons=true" alt="GitHub general statistics">
+  <td style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=GohEeEn&show_icons=true" alt="GitHub general statistics" align="center">
   </td>
   <td rowspan="2">
-    <img src="https://metrics.lecoq.io/GohEeEn" alt="GitHub Activity Metrics">
+    <img src="https://metrics.lecoq.io/GohEeEn" alt="GitHub Activity Metrics" align="center">
   </td>
 </tr>
 
 <tr>
-  <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GohEeEn" alt="GitHub streak statistics">
+  <td style="width: 50%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GohEeEn" alt="GitHub streak statistics" align="center">
   </td>
 </tr>
 </table>
