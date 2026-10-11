@@ -1,86 +1,40 @@
-<!--
-**GohEeEn/GohEeEn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Security Engineer | Security Researcher
 
-Here are some ideas to get you started:
+I’m Ee En (Vincent), a computer security enthusiast and UCD computer science graduate. I explore application and cloud security through hands-on projects, CTFs, and write-ups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/ee-en-g-27b39014b/) · [Website](https://goheeen.netlify.app)
 
-<h1 align="center">Hi there 👋, I am Ee En (Vincent)</h1><br/>
+## Current focus
+
+- **Application security:** Understanding web application vulnerabilities and secure software design.
+- **Cloud security:** Building and documenting knowledge of public cloud security.
+- **CTF research:** Practising web, forensics, OSINT, cryptography, and reverse engineering challenges.
+
+## Selected work
+
+- [Insecure Flight Booking App](https://github.com/GohEeEn/insecure-flight-booking-app) — A deliberately vulnerable Spring Boot course project for exploring web application security and secure software engineering.
+- [Public Cloud Security Notes](https://github.com/GohEeEn/PublicCloudSecurityNotes) — Notes from my public cloud security studies.
+- [TryHackMe Write-Ups](https://github.com/GohEeEn/TryHackMe-Write-Up) — Walkthroughs of resolved rooms, covering topics such as web security, forensics, OSINT, and cryptography.
+- [CTF and Computer Security Tools](https://github.com/GohEeEn/CTF-and-Computer-Security-Tools) — A collection of tools and resources for CTFs and computer security learning.
+
+## Research & practice
+
+- Practise hands-on security labs on [TryHackMe](https://tryhackme.com/dashboard).
+- Follow upcoming competitions on [CTFtime](https://ctftime.org) and document completed challenges in my [CTF write-ups](https://github.com/GohEeEn/CTFs-Write-Up).
+- Explore tools and learning resources in my [CTF and computer security collection](https://github.com/GohEeEn/CTF-and-Computer-Security-Tools).
+
+## Skills & tools
+
+- **Application security:** Web security, Java, Spring Boot, Spring Security
+- **Security research:** Python, shell, OSINT, forensics, cryptography, reverse engineering, steganography
+- **Systems & networking:** Linux/Ubuntu, networking, Docker, Git, SQL
+
+## Learning now
+
+Developing my networking foundations with the [Cisco Networking Essentials course](https://www.netacad.com/courses/networking/networking-essentials), alongside ongoing cloud security study.
+
+## GitHub
 
 <p align="center">
-  <!-- <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" />  -->
-  <br />
-  <a href="https://www.linkedin.com/in/ee-en-g-27b39014b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://goheeen.netlify.app">
-    <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
-    <img src="https://gpvc.arturio.dev/GohEeEn" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohEeEn" alt="Top languages used across my GitHub repositories">
 </p>
-
-#### A computer security enthusiatic from a wonderful trophical country
-
-I am a UCD BS computer science graduate, an ex-Ericsson Software Developer Intern, and incoming Workday Associate Security Engineer. Also, I am a homo sapiens (not a robot!)
-
-<br/>
-<div align="center">
-
-<table style="table-layout: fixed;">
-<tr>
-  <td style="width: 50%;">
-
-![Java](https://img.shields.io/badge/-Java-black?logo=java)
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
-![Maven](https://img.shields.io/badge/-Maven-black?logo=maven)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
-![JSON](https://img.shields.io/badge/-JSON-black?logo=json)
-![XML](https://img.shields.io/badge/-XML-black?logo=xml)
-![SQL](https://img.shields.io/badge/-SQL-black?logo=sql)
-![C](https://img.shields.io/badge/-C-black?logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
-![Windows](https://img.shields.io/badge/-Windows-black?logo=windows)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu)
-
-__Skills__: SDE / Computer Networking / CTF
-
-- 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/dashboard) and [CTFTime](https://ctftime.org)
-- 🌱 I’m currently learning [Cisco Networking Essentials course](https://www.netacad.com/courses/networking/networking-essentials)
-- 📫 How to reach me: [Email](mailto:vincentgoh1998@gmail.com) me maybe ?
-<!-- - ⚡ Fun fact: Somebody call me a night owl, but I sleep early ! (every day morning) -->
-</td>
-
-<td style="width: 50%;">  
- <!-- Reference : https://github.com/anuraghazra/github-readme-stats -->
- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohEeEn" alt="Top languages used on GitHub" align="right">
-</td></tr>
-
-<tr>
-  <td style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GohEeEn&show_icons=true" alt="GitHub general statistics" align="center">
-  </td>
-  <td rowspan="2">
-    <img src="https://metrics.lecoq.io/GohEeEn" alt="GitHub Activity Metrics" align="center">
-  </td>
-</tr>
-
-<tr>
-  <td style="width: 50%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GohEeEn" alt="GitHub streak statistics" align="center">
-  </td>
-</tr>
-</table>
-</div>
