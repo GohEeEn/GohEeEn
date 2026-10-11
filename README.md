@@ -1,86 +1,56 @@
-<!--
-**GohEeEn/GohEeEn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there 👋, I am Ee En (Vincent)</h1><br/>
-
+<h1 align="center">Security Engineer | Security Researcher</h1>
+<p align="center">Hi, I’m Ee En (Vincent), a UCD computer science graduate exploring application and cloud security through hands-on projects, CTFs, and write-ups.</p>
 <p align="center">
-  <!-- <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" />  -->
-  <br />
-  <a href="https://www.linkedin.com/in/ee-en-g-27b39014b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://goheeen.netlify.app">
-    <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
-    <img src="https://gpvc.arturio.dev/GohEeEn" />
-  </a>
+  <a href="https://www.linkedin.com/in/ee-en-g-27b39014b/">LinkedIn</a> ·
+  <a href="https://goheeen.netlify.app">Website</a> ·
+  <a href="https://github.com/GohEeEn">GitHub</a>
 </p>
 
-#### A computer security enthusiatic from a wonderful trophical country
-
-I am a UCD BS computer science graduate, an ex-Ericsson Software Developer Intern, and incoming Workday Associate Security Engineer. Also, I am a homo sapiens (not a robot!)
-
-<br/>
-<div align="center">
-
-<table style="table-layout: fixed;">
-<tr>
-  <td style="width: 50%;">
-
-![Java](https://img.shields.io/badge/-Java-black?logo=java)
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
-![Maven](https://img.shields.io/badge/-Maven-black?logo=maven)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
-![JSON](https://img.shields.io/badge/-JSON-black?logo=json)
-![XML](https://img.shields.io/badge/-XML-black?logo=xml)
-![SQL](https://img.shields.io/badge/-SQL-black?logo=sql)
-![C](https://img.shields.io/badge/-C-black?logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
-![Windows](https://img.shields.io/badge/-Windows-black?logo=windows)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu)
-
-__Skills__: SDE / Computer Networking / CTF
-
-- 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/dashboard) and [CTFTime](https://ctftime.org)
-- 🌱 I’m currently learning [Cisco Networking Essentials course](https://www.netacad.com/courses/networking/networking-essentials)
-- 📫 How to reach me: [Email](mailto:vincentgoh1998@gmail.com) me maybe ?
-<!-- - ⚡ Fun fact: Somebody call me a night owl, but I sleep early ! (every day morning) -->
-</td>
-
-<td style="width: 50%;">  
- <!-- Reference : https://github.com/anuraghazra/github-readme-stats -->
- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohEeEn" alt="Top languages used on GitHub" align="right">
-</td></tr>
-
-<tr>
-  <td style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GohEeEn&show_icons=true" alt="GitHub general statistics" align="center">
-  </td>
-  <td rowspan="2">
-    <img src="https://metrics.lecoq.io/GohEeEn" alt="GitHub Activity Metrics" align="center">
-  </td>
-</tr>
-
-<tr>
-  <td style="width: 50%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GohEeEn" alt="GitHub streak statistics" align="center">
-  </td>
-</tr>
+<h2>Current focus</h2>
+<table>
+  <tr>
+    <td><strong>Application security</strong><br>Web application vulnerabilities and secure software design.</td>
+    <td><strong>Cloud security</strong><br>Building and documenting public cloud security knowledge.</td>
+    <td><strong>CTF research</strong><br>Practising web, forensics, OSINT, cryptography, and reverse engineering.</td>
+  </tr>
 </table>
-</div>
+
+<h2>Selected work</h2>
+<ul>
+  <li><a href="https://github.com/GohEeEn/insecure-flight-booking-app">Insecure Flight Booking App</a> — A deliberately vulnerable Spring Boot course project for exploring web application security and secure software engineering.</li>
+  <li><a href="https://github.com/GohEeEn/PublicCloudSecurityNotes">Public Cloud Security Notes</a> — Notes from my public cloud security studies.</li>
+  <li><a href="https://github.com/GohEeEn/TryHackMe-Write-Up">TryHackMe Write-Ups</a> — Walkthroughs of resolved rooms covering web security, forensics, OSINT, and cryptography.</li>
+  <li><a href="https://github.com/GohEeEn/CTF-and-Computer-Security-Tools">CTF and Computer Security Tools</a> — Tools and resources for CTFs and computer security learning.</li>
+</ul>
+
+<h2>Research &amp; practice</h2>
+<ul>
+  <li>Practise hands-on security labs on <a href="https://tryhackme.com/dashboard">TryHackMe</a>.</li>
+  <li>Follow competitions on <a href="https://ctftime.org">CTFtime</a> and document completed challenges in my <a href="https://github.com/GohEeEn/CTFs-Write-Up">CTF write-ups</a>.</li>
+  <li>Explore tools and learning resources in my <a href="https://github.com/GohEeEn/CTF-and-Computer-Security-Tools">CTF and computer security collection</a>.</li>
+</ul>
+
+<h2>Skills &amp; tools</h2>
+<table>
+  <tr><th align="left">Application security</th><td>Web security, Java, Spring Boot, Spring Security</td></tr>
+  <tr><th align="left">Security research</th><td>Python, shell, OSINT, forensics, cryptography, reverse engineering, steganography</td></tr>
+  <tr><th align="left">Systems &amp; networking</th><td>Linux/Ubuntu, networking, Docker, Git, SQL</td></tr>
+</table>
+
+<h2>Learning now</h2>
+<p>Developing my networking foundations with the <a href="https://www.netacad.com/courses/networking/networking-essentials">Cisco Networking Essentials course</a>, alongside ongoing cloud security study.</p>
+
+<h2>GitHub activity</h2>
+<p align="center">Live profile insights based on public GitHub activity. These cards update automatically; third-party services may cache results, so updates are not instantaneous.</p>
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/GohEeEn"><img src="https://github-readme-stats.vercel.app/api?username=GohEeEn&amp;show_icons=true&amp;hide_title=true" alt="GitHub activity statistics for GohEeEn"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/GohEeEn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohEeEn&amp;layout=compact" alt="Most-used languages across GohEeEn's public repositories"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/GohEeEn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GohEeEn" alt="GitHub contribution streak for GohEeEn"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/GohEeEn"><img src="https://github-readme-activity-graph.vercel.app/graph?username=GohEeEn&amp;theme=github-compact" alt="GitHub contribution activity graph for GohEeEn"></a></td>
+  </tr>
+</table>
